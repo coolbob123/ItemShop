@@ -1,4 +1,4 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
+CID_187_Athena_Commando_F_FuzzyBearPanda, 0
 CID_423_Athena_Commando_F_Painter, 1500
 EID_BasketballV2, 500
 na
