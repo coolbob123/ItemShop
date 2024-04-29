@@ -1,8 +1,8 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
-    "price": 1200
+    "itemGrants": ["AthenaCharacter:CID_A_040_Athena_Commando_F_Temple"],
+    "price": 100
   },
   "daily2": {
     "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
@@ -25,8 +25,8 @@
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_187_Athena_Commando_F_FuzzyBearPanda"],
+    "price": 100
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_423_Athena_Commando_F_Painter"],
